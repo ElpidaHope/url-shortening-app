@@ -105,6 +105,10 @@ export const StyledHeader = styled.header`
       gap: 50px;
       width: 100%;
     }
+
+    nav .btn-sec {
+      width: auto;
+    }
     
     ul {
       flex-direction: row;
